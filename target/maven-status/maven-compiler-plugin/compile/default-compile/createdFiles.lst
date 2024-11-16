@@ -1,0 +1,3 @@
+com\upiiz\memoria\MemoriaApplication.class
+com\upiiz\memoria\controllers\ControllerFacturas.class
+com\upiiz\memoria\config\SecurityConfig.class
